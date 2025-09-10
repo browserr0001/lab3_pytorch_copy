@@ -1,5 +1,6 @@
 """Functional interface."""
-import numpy
+#after resolving the conflict
+#amending
 import importlib
 import math
 import warnings
