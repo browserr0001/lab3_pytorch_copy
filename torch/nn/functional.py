@@ -1,5 +1,5 @@
 """Functional interface."""
-import pandas
+import numpy
 import importlib
 import math
 import warnings
